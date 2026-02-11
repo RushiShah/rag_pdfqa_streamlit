@@ -1,8 +1,9 @@
 python-dotenv
 streamlit
 sentence-transformers
+langchain-classic
 langchain-community
-langchain==0.0.353
+langchain
 langchain-huggingface
 langchain-text-splitters
 unstructured
@@ -10,4 +11,3 @@ unstructured[pdf]
 langchain-unstructured
 langchain-chroma
 langchain-groq
-chromadb
