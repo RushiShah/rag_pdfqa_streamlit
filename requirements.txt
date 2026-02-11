@@ -2,7 +2,7 @@ python-dotenv
 streamlit
 sentence-transformers
 langchain-community
-langchain
+langchain==0.0.353
 langchain-huggingface
 langchain-text-splitters
 unstructured
